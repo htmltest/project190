@@ -352,11 +352,11 @@ header {height:138px}
 .catalogue-item-photo {height:220px; line-height:220px; text-align:center}
 .catalogue-item-photo img {display:inline-block; vertical-align:middle; max-height:100%}
 .catalogue-item-title {display:table; width:100%; margin:22px 0 0 0}
-.catalogue-item-title-type {display:table-cell; vertical-align:middle; width:46px}
+.catalogue-item-title-type {display:table-cell; vertical-align:top; width:46px}
 .catalogue-item-title-type-inner {width:46px; height:53px; position:relative; text-align:center; padding:27px 0 0 0; font-size:14px; line-height:16px; letter-spacing:0; font-weight:bold; color:#fff; text-transform:uppercase}
 .catalogue-item-title-type-inner svg {display:block; width:46px; height:53px; position:absolute; left:0; top:0; fill:none}
 .catalogue-item-title-type-inner span {position:relative}
-.catalogue-item-title-text {display:table-cell; vertical-align:middle; padding:0 0 0 16px; font-size:18px; line-height:27px; letter-spacing:0; font-weight:normal; text-decoration:underline}
+.catalogue-item-title-text {display:table-cell; vertical-align:top; padding:0 0 0 16px; font-size:18px; line-height:27px; letter-spacing:0; font-weight:normal; text-decoration:underline}
 @media screen and (min-width:1200px) {
     .catalogue-item a:hover .catalogue-item-title-text {text-decoration:none}
 }
